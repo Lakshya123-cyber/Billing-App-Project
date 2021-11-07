@@ -1,1 +1,1 @@
-
+This bills folder contain all the bill you generate after collecting the items and totalling it. Basically a receipt/proof of your bought items.
